@@ -1,4 +1,5 @@
 ![SwiftUI Progress](https://img.shields.io/badge/100--Days--of--SwiftUI-Day%2001-orange?style=for-the-badge&logo=swift)
+![Degree](https://img.shields.io/badge/Engineering_Student-FIAP-red?style=flat-square&logo=apple)
 
 <!--
 **rafaelkimei/rafaelkimei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
