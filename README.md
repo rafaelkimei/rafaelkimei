@@ -1,7 +1,3 @@
-![SwiftUI Progress](https://img.shields.io/badge/100--Days--of--SwiftUI-Day%2001-orange?style=for-the-badge&logo=swift)
-![Degree](https://img.shields.io/badge/Engineering_Student-FIAP-red?style=flat-square&logo=apple)
-
-
 # Olá, eu sou o [Seu Nome] 👋
 
 ![100Days](https://img.shields.io/badge/100_Days_of_SwiftUI-Day_01-orange?style=for-the-badge&logo=swift)
