@@ -1,6 +1,15 @@
 ![SwiftUI Progress](https://img.shields.io/badge/100--Days--of--SwiftUI-Day%2001-orange?style=for-the-badge&logo=swift)
 ![Degree](https://img.shields.io/badge/Engineering_Student-FIAP-red?style=flat-square&logo=apple)
 
+
+# Olá, eu sou o [Seu Nome] 👋
+
+![100Days](https://img.shields.io/badge/100_Days_of_SwiftUI-Day_01-orange?style=for-the-badge&logo=swift)
+![FIAP](https://img.shields.io/badge/Eng_Software-FIAP-ED1C24?style=for-the-badge&logo=education&logoColor=white)
+
+![Swift](https://img.shields.io/badge/Swift-6.0-orange?style=flat-square&logo=swift) ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=flat-square&logo=swift) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode) ![Agile](https://img.shields.io/badge/Agile-Scrum-blueviolet?style=flat-square)
+
+---
 <!--
 **rafaelkimei/rafaelkimei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
