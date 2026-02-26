@@ -2,7 +2,7 @@
 
 
 ![FIAP](https://img.shields.io/badge/Eng_Software-FIAP-ED1C24?style=for-the-badge&logo=education&logoColor=white)
-![100Days](https://img.shields.io/badge/100_Days_of_SwiftUI-Day_01-orange?style=for-the-badge&logo=swift)
+
 
 ![Swift](https://img.shields.io/badge/Swift-6.0-orange?style=flat-square&logo=swift) ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=flat-square&logo=swift) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode) ![Agile](https://img.shields.io/badge/Agile-Scrum-blueviolet?style=flat-square)
 
